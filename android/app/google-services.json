@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120075847286",
+    "project_id": "qr-scanner-ras-event",
+    "storage_bucket": "qr-scanner-ras-event.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120075847286:android:a345ced2cb74ef5c5f0157",
+        "android_client_info": {
+          "package_name": "com.example.qr_scan_ieee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB46tBcb7aCaLmH_W5ve8n1lC4nK0ubVus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
