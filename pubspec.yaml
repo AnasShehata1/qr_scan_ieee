@@ -1,22 +1,20 @@
 name: qr_scan_ieee
 description: "A new Flutter project."
 
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
 
 environment:
   sdk: ^3.6.0
 
-
 dependencies:
   flutter:
     sdk: flutter
 
-
-  cupertino_icons: ^1.0.8 
+  cupertino_icons: ^1.0.8
   mobile_scanner:
-  intl: 
+  intl:
   lottie: ^3.3.1
   qr_scanner_overlay: ^0.0.2
   dio: ^5.8.0+1
@@ -30,11 +28,10 @@ dependencies:
   internet_connection_checker_plus: ^2.7.2
 
 dev_dependencies:
-  hive_ce_generator: 
-  build_runner: 
+  hive_ce_generator:
+  build_runner:
   flutter_test:
     sdk: flutter
-
 
   flutter_lints: ^5.0.0
 
@@ -44,7 +41,6 @@ flutter_icons:
   image_path: "assets/qr.png"
 
 flutter:
-
   uses-material-design: true
 
   assets:
